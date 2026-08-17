@@ -1,18 +1,1 @@
-# Authors
-
-Name Name:
-  name        : "Name Name"
-  uri         : "https://name.com"
-  email       : "name@name.com"
-  bio         : "This is the first name."
-  avatar      : "bio-photo-2.jpg"
-  twitter     : "name"
-  google_plus : "Name"
-
-Name2 Name2:
-  name        : "Name2 Name2"
-  email       : "name2@name2.com"
-  bio         : "I ordered what?"
-  avatar      : "bio-photo.jpg"
-  twitter     : "name2"
-  google_plus : "Name"
+# Authors\nJunteng Liu:\n  name        : \"Junteng Liu\"\n  uri         : https://github.com/Vicent0205\n  email       : \"jliugi@connect.ust.hk\"\n  bio         : \"PhD candidate at HKUST NLP Group. Research in NLP, LLM reasoning and reinforcement learning, hallucination in VLMs, and LLM truthfulness and interpretability.\"\n  avatar      : \"profile.png\"\n  twitter     : \"junteng88716710\"\n  googlescholar : \"https://scholar.google.com/citations?user=tbK9jl4AAAAJ\"\n  github      : \"Vicent0205\"\n
