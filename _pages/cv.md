@@ -11,54 +11,38 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D. in Computer Science (2024-Present), Hong Kong University of Science and Technology (HKUST)
+  * Advisor: Professor Junxian He
+  * HKUST NLP Group
+
+* B.Eng. (2020-2024), Shanghai Jiao Tong University (SJTU)
+  * Recipient of Zhiyuan Honor Scholarship
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* MINIMAX, Research Intern (February 2025 - Present)
+  * Research on LLM reasoning and reinforcement learning
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Tencent WXG, Research Intern (June 2024 - September 2024)
+  * Supervisor: Zifei Shan
+  * Research on vision-language models and chart understanding
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
+* Shanghai AI Lab, Research Intern (June 2023 - December 2023)
+  * Supervisor: Prof. Yu Cheng
+  * Research on LLM truthfulness and interpretability
+
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Programming: Python, PyTorch, C++
+* Research: Natural Language Processing, Machine Learning, Large Language Models, Vision-Language Models
+* Languages: Chinese (native), English (fluent)
 
 Publications
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
+
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Research collaborations across multiple institutions including HKUST, Tencent WXG, and Shanghai AI Lab
